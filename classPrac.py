@@ -27,3 +27,5 @@ svc = Service()
 svc.setname("lee")
 print(svc.secret)
 print(svc.sum(3,6))
+
+#__init__의 정의
